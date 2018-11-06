@@ -1,6 +1,0 @@
-keyword: char
-integer-min: '0'
-integer-max: '255'
-integer-signed: false
-delimiters:
-  - c_char
